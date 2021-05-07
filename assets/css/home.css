@@ -27,7 +27,7 @@ main:before {
 }
 
 .home_container > * {
-	color: #2626d9;
+	color: #076707;
 	font-size: var(--regular-size-5x);
 }
 
@@ -47,7 +47,7 @@ main:before {
 	transform: translateY(-50%);
 	height: 2px;
 	width: 40%;
-	background-color: #2626d9;
+	background-color: #076707;
 }
 
 .home_container .symbol:before {
