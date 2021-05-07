@@ -22,16 +22,28 @@ It was created using:
 * HTML
 * CSS
 
-### External user goals
-  - External users can browse the restaurant website to find out information about the restaurant
-  - External user can make a booking online
-  - Extenal user can find out about the restaurant menu
-  - External user can find the contact information and opening hours.
+### External User Goals
+  - As an external user, I want to be able to browse browse the restaurant website to find out information about the restaurant
+  - As an external user, I wanto to be able to navigate through the website and easily book online
+  - As an extenal user, I want to find out about the restaurant menu and the prices
+  - As an external user, I want to find the contact information and opening hours.
+  - As an external user I want to visit the various social media links to look at pictures of the various dishes and review customer testimonials.
 
-### Restaurant owner goal
-  - Restaurant owner privides all the information about the restaurant. 
-  - Restaurant owner attract more customers via pomotional offers inturn increasing the customer visit to restaurant.  
+### Restaurant Owner Goals
+  - As a restaurant owner, I want to be able to provide all the information about the restaurant and the dishes 
+  - As a restaurant owner, I want my website to be able to attract more customers via pomotional offers which will be advertised on the website and social media links in order to increase cystiner visits to the restaurant.
+  - As a restaurant owner, I want visitors to be able to easily navigate throughout the website to reserve and make online bookings easily as well as locate the location of the restaurant via the linked map. 
+  - As a restaurant owner, I want the opening and closing times to easily be indicated on the website so potential customers can find it on all the browsing tabs at the bottom without going through the trouble of looking for it.
+  - As a restaurant owner, I want my customers to be able to look at the menu and the prices.
 
+### Returning Visitor Goals
+- As a returning visitor, I want to find an easy way to contact the restaurant regarding any questions I may have.
+- As a returning visitor, I want to check the dish prices online
+- As a returning visitor, I want to look for their social media links
+
+### Frequent User Goals
+- As a frequent user of the restaurant, I want to check the website to see if there are any promotional offers on the dishes. 
+- As a frequent user of the restaurant, I want to check if the menu has been updated with new dishes.
 
 ## Author
 
@@ -54,10 +66,10 @@ To see the live demo, please [click here](https://ferohmd.github.io/MS1-Project/
 ![Preview Mobile](docs/preview/mobile/home(1).png "Preview")
 
 ## What is achieved?
-  - main navigation menu and a structured layout
-  - accessibility
+  - Main navigation menu and a structured layout
+  - Accessibility
   - Photos showcased
-  - Provided links to external resources (social icons)
+  - Provided links to external resources (social media icons)
   - Website includes 4 pages
   - Wrote custom CSS code that passed through the official (Jigsaw) validator with no issues
   - Used CSS media queries
@@ -68,7 +80,7 @@ To see the live demo, please [click here](https://ferohmd.github.io/MS1-Project/
   - 90% lighthouse report.
 
 ## Development Process
-development process followed found in [DEVELOPMENT_LIFE_CYCLE.md](docs/DEVELOPMENT_LIFE_CYCLE.md)
+Development process followed found in [DEVELOPMENT_LIFE_CYCLE.md](docs/DEVELOPMENT_LIFE_CYCLE.md)
 
 ## Bugs and fixes
 Bugs and fixes can be found in [BUGS.md](docs/BUGS.md)
@@ -78,7 +90,7 @@ Bugs and fixes can be found in [BUGS.md](docs/BUGS.md)
 [Menu page](./docs/light-house-reports/menu.pdf)
 [about Page](./docs/light-house-reports/about.pdf)
 
-## Reference
+## References
   - Google Map Generator : [https://google-map-generator.com/](https://google-map-generator.com/)
   - Name that color : [https://chir.ag/projects/name-that-color/](https://chir.ag/projects/name-that-color/#6195ED)
   - Google Images : [https://www.google.com/](https://www.google.com/)
