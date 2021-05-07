@@ -80,10 +80,180 @@ To see the live demo, please [click here](https://ferohmd.github.io/MS1-Project/
   - 90% lighthouse report.
 
 ## Development Process
-Development process followed found in [DEVELOPMENT_LIFE_CYCLE.md](docs/DEVELOPMENT_LIFE_CYCLE.md)
+# Development life cycle.
+I have followed the software developement life cycle.
 
+## Requirement gathering
+  - I want to see contact details of the restaurant
+  - I want to see opening hours of the restaurant
+  - I want to see the menu served by the restaurant
+  - I want to book a table for dine in
+
+## Analysis
+  - Contact details and opening hours can be show besides each other
+  - Menu page to show the list of menu being served by the restaurant
+  - booking page
+  - Additionaly, design home page/about page
+  - Need a navigation to different page
+
+## Design
+  - Common page layout for desktop and tablet
+  ![Wireframe](./docs/wireframes/desktop-tablet-layout.png "Desktop-tablet")
+  - Mobile page layout
+  ![Wireframe](./docs/wireframes/mobile-page-layout.png "Mobile")
+
+## Implementation
+  - Responsive design of a restaurant website
+  - Static website implemented using HTML and CSS. 
+  - Google Font is used. 
+  - Semantic tags used in all pages.
+  - Stylesheets/fonts are loaded in the head of the page
+  - Logo in the header as rotation animation powered by css
+  - CSS global variables are used (variables.css) for theming
+  - Static files are located in assets folder
+  - Google map in integrated using Google Map Generator [https://google-map-generator.com/]
+
+
+### Project structure
+```
+│   .gitignore
+│   about-navigation.html
+│   about.html
+│   booking-navigation.html
+│   booking.html
+│   index.html
+│   LICENSE
+│   menu-navigation.html
+│   menu.html
+│   navigation.html
+│   README.md
+│   robots.txt
+│
+├───assets
+│   ├───css
+│   │       booking-form.css
+│   │       home.css
+│   │       menu.css
+│   │       styles.css
+│   │       variables.css
+│   │
+│   ├───img
+│   │       about.jpg
+│   │       background.jpg
+│   │       book-a-table.jpg
+│   │       bread.jpg
+│   │       cookies.jpg
+│   │       donut.jpg
+│   │       icon-512.png
+│   │       menu.png
+│   │       menu1.jpg
+│   │       menu2.jpg
+│   │       menu3.jpg
+│   │       menu4.jpg
+│   │       milkshake.jpg
+│   │
+│   └───pwa
+│           icon-192x192.png
+│           icon-256x256.png
+│           icon-384x384.png
+│           icon-512x512.png
+│           manifest.json
+│
+└───docs
+    │   BUGS.md
+    │   CSS_VALIDATOR.md
+    │   HTML_VALIDATOR.md
+    │   TESTING.md
+    │
+    ├───css-validator
+    │       booking-form.css.png
+    │       home.css.png
+    │       menu.css.png
+    │       styles.css.png
+    │       variables.css.png
+    │
+    ├───html-validator
+    │       about-index.html.png
+    │       about-navigation-index.html.png
+    │       booking-index.html.png
+    │       booking-navigation-index.html.png
+    │       index.html.png
+    │       menu-index.html.png
+    │       menu-navigation-index.html.png
+    │       navigation-index.html.png
+    │
+    ├───light-house-reports
+    │       about.pdf
+    │       home.pdf
+    │       menu.pdf
+    │
+    ├───preview
+    │   ├───desktop
+    │   │       about.png
+    │   │       booking(1).png
+    │   │       booking(2).png
+    │   │       home(1).png
+    │   │       home(2).png
+    │   │       menu(1).png
+    │   │       menu(2).png
+    │   │       menu(3).png
+    │   │
+    │   ├───mobile
+    │   │       about(1).png
+    │   │       about(2).png
+    │   │       booling(1).png
+    │   │       booling(2).png
+    │   │       booling(3).png
+    │   │       booling(4).png
+    │   │       home(1).png
+    │   │       home(2).png
+    │   │       menu(1).png
+    │   │       menu(2).png
+    │   │       menu(3).png
+    │   │       menu(4).png
+    │   │       navigation.png
+    │   │
+    │   └───tablet
+    │           about.png
+    │           booking(1).png
+    │           booking(2).png
+    │           home(1).png
+    │           home(2).png
+    │           menu(1).png
+    │           menu(2).png
+    │           menu(3).png
+    │
+    └───wireframes
+            desktop-tablet-layout.png
+            mobile - navigation.png
+            mobile-page-layout.png
+            Wireframes.pptx 
+```
+### Pages (desktop/tablet/mobile)
+  - [Home page](./index.html) 
+    - [Mobile only Navigation (Home active)](./navigation.html) 
+  - [About page](./about.html) 
+    - [Mobile only Navigation (About active)](./about-navigation.html) 
+  - [Menu page](./menu.html) 
+    - [Mobile only Navigation (Menu active)](./menu-navigation.html) 
+  - [Booking page](./booking.html)
+    - [Mobile only Navigation (Booking active)](./booking-navigation.html)  
+
+
+## Testing
+Testing report found in [TESTING.md](./docs/TESTING.md)
 ## Bugs and fixes
-Bugs and fixes can be found in [BUGS.md](docs/BUGS.md)
+- Booking Page
+  Bug: on submitting the booking form, URL used to change with some query strings.
+  Fix: Form method used as post with empty action. removed mthod attribute from form and changed action to /booking, which fixed the issue.
+
+- Mobile Pages
+  Bug: On clicking hamburger menu, not able to see the navigation menu as a popover/slide in menu.
+  Fix: Without Javascript, achieving the modal/popover is difficult. I had to implemente it as a separate page
+
+  - The Logo 
+  Bug: The logo at the top left of all the pages would not take user back to the home page
+  Fix: Re-routed the route
 
 ## Lighthouse Reports
 [Home Page](./docs/light-house-reports/home.pdf)

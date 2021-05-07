@@ -18,8 +18,10 @@
 I have tested following acceptance criteria for desktop and tablet
 
 ### Home Page
-  - As a user I want to browse the home page with a root URL. ex: http://localhost/index.html
+  - As a user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/index.html
+    - Testing: I browsed the URL above to access the home page of the restaurant. When I browse the url, I landed in the home page.
   - As a user I want to see navigation in the header with restaurant logo, name of the restaurant as a content and footer with contact and opening hours information with social medial icons and copyright information.
+    - Testing: When I brose the home page URL, I landed on the home page of the restaurant and I can see the logo of the restaurant in the header and the site navigation list. And in the footer, I see the contact details
   - As a user I want to navigate to different pages by clicking the navigation links provided in the header.
     - On clicking logo, I want to stay in the home page
     - On clicking Home link, I want to stay in the home page
@@ -30,10 +32,11 @@ I have tested following acceptance criteria for desktop and tablet
 
 
 ### About Page
-  - As a user I want to browse the home page with a root URL. ex: http://localhost/about.html
+  - As a user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/about.html
   - As a user I want to see navigation in the header with restaurant logo, about content and footer with contact and opening hours information with social medial icons and copyright information.
   - As a user I want to navigate to different pages by clicking the navigation links provided in the header.
     - On clicking logo, I want to land on home page
+      -Testing: I clicked on the logo and I landed on Home page.
     - On clicking Home link, I want to land on home page
     - On clicking About link, I want to stay in the about page
     - On clicking Menu link, I want to land on menu page
@@ -43,7 +46,7 @@ I have tested following acceptance criteria for desktop and tablet
 
 
 ### Menu Page
-  - As a user I want to browse the home page with a root URL. ex: http://localhost/menu.html
+  - As a user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/menu.html
   - As a user I want to see navigation in the header with restaurant logo, menu content and footer with contact and opening hours information with social medial icons and copyright information.
   - As a user I want to navigate to different pages by clicking the navigation links provided in the header.
     - On clicking logo, I want to land on home page
@@ -55,7 +58,7 @@ I have tested following acceptance criteria for desktop and tablet
   - As a user I want to click on social media links and it should open in a new tab.
 
 ### Booking Page
-  - As a user I want to browse the home page with a root URL. ex: http://localhost/booking.html
+  - As a user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/booking.html
   - As a user I want to see navigation in the header with restaurant logo, booking content and footer with contact and opening hours information with social medial icons and copyright information.
   - As a user I want to navigate to different pages by clicking the navigation links provided in the header.
     - On clicking logo, I want to land on home page
@@ -72,7 +75,7 @@ I have tested following acceptance criteria for desktop and tablet
 I have tested following acceptance criteria for mobile
 
 ### Home Page
-  - As a user I want to browse the home page with a root URL. ex: http://localhost/index.html
+  - As a user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/index.html
   - As a user I want to see hamburger menu in the header with restaurant logo, name of the restaurant as a content and footer with contact and opening hours information with social medial icons and copyright information.
   - As a user, I want to access the mavigation menu by clicking the hamburger icon (which take user to /navigation.html page)
   - As a user I want to navigate to different pages by clicking the navigation links provided in the /navigation.html page.
@@ -85,7 +88,7 @@ I have tested following acceptance criteria for mobile
 
 
 ### About Page
-  - As a user I want to browse the home page with a root URL. ex: http://localhost/about.html
+  - As a user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/about.html
   - As a user I want to see hamburger menu in the header with restaurant logo,, about content and footer with contact and opening hours information with social medial icons and copyright information.
   - As a user, I want to access the mavigation menu by clicking the hamburger icon (which take user to /about-navigation.html page)
   - As a user I want to navigate to different pages by clicking the navigation links provided in the about/navigation.html page.
@@ -99,7 +102,7 @@ I have tested following acceptance criteria for mobile
 
 
 ### Menu Page
-  - As a user I want to browse the home page with a root URL. ex: http://localhost/menu.html
+  - As a user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/menu.html
   - As a user I want to see hamburger menu in the header with restaurant logo,, menu content and footer with contact and opening hours information with social medial icons and copyright information.
   - As a user, I want to access the mavigation menu by clicking the hamburger icon (which take user to menu-navigation.html page)
   - As a user I want to navigate to different pages by clicking the navigation links provided in the menu-navigation.html page.
@@ -112,7 +115,7 @@ I have tested following acceptance criteria for mobile
   - As a user I want to click on social media links and it should open in a new tab.
 
 ### Booking Page
-  - As a user I want to browse the home page with a root URL. ex: http://localhost/booking.html
+  - As a user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/booking.html
   - As a user I want to see hamburger menu in the header with restaurant logo,, booking content and footer with contact and opening hours information with social medial icons and copyright information.
   - As a user, I want to access the mavigation menu by clicking the hamburger icon (which take user to booking-navigation.html page)
   - As a user I want to navigate to different pages by clicking the navigation links provided in the booking-navigation.html page.
