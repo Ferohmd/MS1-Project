@@ -14,10 +14,9 @@
 
 
 ## Synopsis
-
 This is a static website for a typical restaurant in the high street.
 
-It was created using:
+It was created using the following languages:
 
 * HTML
 * CSS
@@ -46,11 +45,10 @@ It was created using:
 - As a frequent user of the restaurant, I want to check if the menu has been updated with new dishes.
 
 ## Author
-
 Design and coded by Fero Hamed
 
 ## License & Copyrights
-Please Refer [License](LICENSE) 
+Please Refer to for [License](LICENSE) 
 
 ## Live Demo
 
@@ -76,23 +74,22 @@ To see the live demo, please [click here](https://ferohmd.github.io/MS1-Project/
   - Wrote custom HTML code that passed through the official W3C validator with no issues.
   - Used Semantic markup to structure HTML code with site specific content
   - Well documented
-  - Well tested
+  - Well tested on desktop, mobile and ipad
   - 90% lighthouse report.
 
 ## Development Process
-# Development life cycle.
 I have followed the software developement life cycle.
 
 ## Requirement gathering
-  - I want to see contact details of the restaurant
-  - I want to see opening hours of the restaurant
-  - I want to see the menu served by the restaurant
-  - I want to book a table for dine in
+  - I want to be able to find on the website the contact details of the restaurant
+  - I want to be able to find opening hours of the restaurant
+  - I want to be able to find the menu served by the restaurant including the prices
+  - I want to be able to book online to reserve a table to dine in
 
 ## Analysis
   - Contact details and opening hours can be show besides each other
   - Menu page to show the list of menu being served by the restaurant
-  - booking page
+  - Booking page to book online and reserve a table
   - Additionaly, design home page/about page
   - Need a navigation to different page
 
@@ -111,7 +108,7 @@ I have followed the software developement life cycle.
   - Logo in the header as rotation animation powered by css
   - CSS global variables are used (variables.css) for theming
   - Static files are located in assets folder
-  - Google map in integrated using Google Map Generator [https://google-map-generator.com/]
+  - Google map integrated using Google Map Generator [https://google-map-generator.com/]
 
 
 ### Project structure
@@ -160,7 +157,7 @@ I have followed the software developement life cycle.
 │           manifest.json
 │
 └───docs
-    │   BUGS.md
+
     │   CSS_VALIDATOR.md
     │   HTML_VALIDATOR.md
     │   TESTING.md
@@ -242,6 +239,7 @@ I have followed the software developement life cycle.
 
 ## Testing
 Testing report found in [TESTING.md](./docs/TESTING.md)
+
 ## Bugs and fixes
 - Booking Page
   Bug: on submitting the booking form, URL used to change with some query strings.
@@ -253,7 +251,10 @@ Testing report found in [TESTING.md](./docs/TESTING.md)
 
   - The Logo 
   Bug: The logo at the top left of all the pages would not take user back to the home page
-  Fix: Re-routed the route
+  Fix: There was a typo
+
+  - Bug: URL was not routed properly so could not land on the pages I wanted i.e. about/booking or go back to the home page
+  Fix: I noticed with the about.html or menu.html it would work on the local desktop but not on the github server so what I did was to go back on to the navbar and added the name of the project: ms1-project to route it correctly on to the pages on the github server.
 
 ## Lighthouse Reports
 [Home Page](./docs/light-house-reports/home.pdf)

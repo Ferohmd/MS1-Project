@@ -1,6 +1,6 @@
 # Testing
 
-## Desktop browsers Browsers
+## Desktop Browsers
   - Chrome
   - Safari
   - Firefox 
@@ -15,18 +15,20 @@
   - Safari
 
 ## Desktop and tablet testing reports
-I have tested following acceptance criteria for desktop and tablet
+I have tested following the acceptance criteria for both desktop and tablet
 
 ### Home Page
   - As a user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/index.html
-    - Testing: I browsed the URL above to access the home page of the restaurant. When I browse the url, I landed in the home page.
-  - As a user I want to see navigation in the header with restaurant logo, name of the restaurant as a content and footer with contact and opening hours information with social medial icons and copyright information.
-    - Testing: When I brose the home page URL, I landed on the home page of the restaurant and I can see the logo of the restaurant in the header and the site navigation list. And in the footer, I see the contact details
+    - Testing: I browsed the URL above to access the home page of the restaurant. When I browse the url, I landed on the home page.
+
+  - As an user I want to see navigation in the header with the restaurant logo, name of the restaurant as a content and footer with contact and opening hours information with links to the social media sites and copyright information.
+    - Testing: When I browse the home page URL, I landed on the home page of the restaurant and I can see the logo of the restaurant in the header and the site navigation list. And in the footer, I see the contact details which includes the social media icons with working links to each social networking website, as well as the opening and closing times and contact details and location of the restaurant.
+
   - As a user I want to navigate to different pages by clicking the navigation links provided in the header.
-    - On clicking logo, I want to stay in the home page
-    - On clicking Home link, I want to stay in the home page
-    - On clicking Menu link, I want to land on menu page
-    - On clicking Booking link, I want to land on booking page
+    - By clicking the logo, I want to stay in the home page
+    - By clicking the Home link, I want to remain in the home page
+    - By clicking the Menu link, I want to land on the menu page
+    - By clicking the Booking link, I want to land on the booking page
     - On clicking Contact link, I want to scroll down to footer of the same page which shows contact information
   - As a user I want to click on social media links and it should open in a new tab.
 
