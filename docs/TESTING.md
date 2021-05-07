@@ -29,8 +29,11 @@ I have tested following the acceptance criteria for both desktop and tablet
     - By clicking the Home link, I want to remain in the home page
     - By clicking the Menu link, I want to land on the menu page
     - By clicking the Booking link, I want to land on the booking page
-    - On clicking Contact link, I want to scroll down to footer of the same page which shows contact information
+    - By clicking the Contact link, I want to be able to go straight to the footer of the same page which shows the contact information i.e. phone number and email address
+     - Testing: When I click on each of the above mentioned tabs, it takes me to the exact location its supposed to take. By clicking the contact link, and then being taken to the footer of the page with the contact details, and on clicking the email address, the userss email bar will open up where you can send a direct email to the restaurant and by clicking on the phone number, it will take you to the phone page to call.
+
   - As a user I want to click on social media links and it should open in a new tab.
+    - Testing: By clicking on the social media links I am directed to the individual sites on a new web page.
 
 
 ### About Page
