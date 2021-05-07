@@ -1,0 +1,54 @@
+.menu_container .img_container {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 1fr 1fr;
+	grid-gap: 20px 20px;
+}
+.divider.main_menu  {
+	background: var(--secondary-bg-color) url(../img/bread.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+.divider.desserts_menu {
+	background: var(--secondary-bg-color) url(../img/cookies.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+.menu_container img {
+	width: 100%;
+	min-width: 50px;
+}
+
+#desserts .img_container {
+	grid-template-rows: 1fr;
+}
+
+#desserts img {
+	max-width: 320px;
+}
+
+.list-items {
+	padding: 10px 0;
+}
+.list-items .list-item {
+	padding: 0 20px;
+	border-bottom: 1px dashed #E6E6E6;
+	transition: padding .3s;
+	border-bottom-style: solid;
+	background: none;
+	display: flex;
+	align-items: baseline;
+}
+
+.item-name {
+	flex: 1;
+	text-align: left;
+}
+
+
+.item-price {
+	width: 50px;
+}
+
+#main_menu {
+	flex-direction: column;
+}
