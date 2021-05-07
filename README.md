@@ -96,6 +96,7 @@ I have followed the software developement life cycle.
 ## Design
   - Common page layout for desktop and tablet
   ![Wireframe](./docs/wireframes/desktop-tablet-layout.png "Desktop-tablet")
+  
   - Mobile page layout
   ![Wireframe](./docs/wireframes/mobile-page-layout.png "Mobile")
 
@@ -226,7 +227,7 @@ I have followed the software developement life cycle.
             mobile-page-layout.png
             Wireframes.pptx 
 ```
-### Pages (desktop/tablet/mobile)
+### Pages (laptop/tablet/mobile)
   - [Home page](./index.html) 
     - [Mobile only Navigation (Home active)](./navigation.html) 
   - [About page](./about.html) 
