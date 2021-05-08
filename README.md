@@ -105,13 +105,13 @@ I have followed the software developement life cycle.
 ### Images:
 - The images used are of high quality that even when scale according to different device sizes the quality does not reduce. 
 
+Below you can find the initial drafts of the wireframes I created for the pages, illustrating how I would want the page to be structured. 
+
   - Common page layout for desktop and tablet
   ![Wireframe](./docs/wireframes/desktop-tablet-layout.png "Desktop-tablet")
   
   - Mobile page layout
   ![Wireframe](./docs/wireframes/mobile-page-layout.png "Mobile")
-
-Below you can find the initial drafts of the wireframes I created for the pages, illustrating how I would want the page to be structured. 
 
 ## Implementation
   - Responsive design of a restaurant website
