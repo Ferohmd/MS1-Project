@@ -257,7 +257,12 @@ Testing report found in [TESTING.md](./docs/TESTING.md)
   - Bug: URL was not routed properly so could not land on the pages I wanted i.e. about/booking or go back to the home page
   Fix: I noticed with the about.html or menu.html it would work on the local desktop but not on the github server so what I did was to go back on to the navbar and added the name of the project: ms1-project to route it correctly on to the pages on the github server.
 
+  ### Known Bugs
+ - When using an Ipad, on the about, it looks like it has not been scaled properly. As I had issues using Bootstrap for scaling, I focussed on the sizing of the website so it comes out neatly on all devices. It looks fine on all devices except the about page on an Ipad. Looks like the image is overlaying the text. 
+
 ## Lighthouse Reports
+My website was tested using Lighthouse in the Google Development Tools. Considering that this was my first website design, I am quite content with the outcome, as I went for a simple but sleek look which I did attain. I am pretty content with the performance of the website, though per haps reducing the image size on the home page may helped with the performance score of 88%. 
+
 [Home Page](./docs/light-house-reports/home.pdf)
 [Menu page](./docs/light-house-reports/menu.pdf)
 [about Page](./docs/light-house-reports/about.pdf)

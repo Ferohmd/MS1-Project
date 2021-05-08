@@ -1,7 +1,7 @@
 # Testing
 
 ## Desktop Browsers
-  - Chrome
+  - Chrome 
   - Safari
   - Firefox 
   - Edge (windows)
@@ -233,3 +233,23 @@ I have tested following acceptance criteria for mobile device. Tested on Apple I
 
 ## Tablet testing report
 The acceptance criteria has been followed for testing on tablet. Tested on Apple IOS Ipad and Ipad Pro. Both worked well, the same as on desktop at the top. 
+
+## Further Testing
+
+In order to test the website across a variety of different browsers (below), an account at SauceLabs was created to test the website: https://ferohmd.github.io/MS1-Project/.
+
+Chrome: Successful
+Edge: Successful
+Firefox: Successful
+Safari: Successful
+Internet Explorer: Although the site worked, it did not come out as the original resolution and the colours were completely off. As its shown in the testing docs section (IEAbouterror)
+
+Further testings were conducted using the Google Developer Tools to simulate various device sizes. 
+
+Iphone 6/7/8: Portrait, Landscape
+Iphone X: Potrait, Landscape
+Ipad / Ipad Pro: Portrait, Landscape
+Galaxy S III: Portrait, Landscape
+LG Optimus L70: Portrait, Landscape
+
+The full page is shown on all device sizes, with links to the navigation bar, which work successfully on both landscape and portrait sized devices. 
