@@ -18,10 +18,10 @@
 Testing completed following the acceptance criteria on all devices and browsers listed above.
 
 ### Home Page
-  - As an user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/index.html
+  - As a user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/index.html
     - Testing: I browsed the URL above to access the home page of the restaurant. When I browse the url, it will take the user to the Home Page.
 
-  - As an user I want to see navigation in the header with the restaurant logo, name of the restaurant as a content and footer with contact and opening hours information with links to the social media sites and copyright information.
+  - As a user I want to see navigation in the header with the restaurant logo, name of the restaurant as a content and footer with contact and opening hours information with links to the social media sites and copyright information.
     - Testing: When I browse the home page URL, I landed on the home page of the restaurant and I can see the logo of the restaurant in the header and the site navigation list. And in the footer, I see the contact details which includes the social media icons with working links to each social networking website, as well as the opening and closing times and contact details and location of the restaurant.
 
   - As a user I want to navigate to different pages by clicking the navigation links provided in the header.
@@ -41,7 +41,7 @@ Testing completed following the acceptance criteria on all devices and browsers 
 
 
 ### About Page
-  - As an user one can browse the about page by clicking the following URL . ex: https://ferohmd.github.io/MS1-Project/about.html
+  - As a user one can browse the about page by clicking the following URL . ex: https://ferohmd.github.io/MS1-Project/about.html
     - Testing: Once on the Home page, the user can click on the about page at the top right corner of the web page, to take you to the about section on the web. 
 
   - As a user I want to navigate to different pages by clicking the navigation links provided in the header.
@@ -58,12 +58,12 @@ Testing completed following the acceptance criteria on all devices and browsers 
      Click on the Booking link to take you to the Booking page
      Click the Contact link to take you to the contact page at the bottom of the page, the footer.By clicking the contact link, and then being taken to the footer of the page with the contact details, and on clicking the email address, the user's email bar will open up where you can send a direct email to the restaurant and by clicking on the phone number, it will take you to the phone page to call on the web browsers.
 
-  - As an user I want to click on social media links and it should open in a new tab.
+  - As a user I want to click on social media links and it should open in a new tab.
      - Testing: By scrolling down to the footer or clicking the Contact link at the top right corner of the page, you can access the various social media links which will open in a new tab.
 
 
 ### Menu Page
-  - As an user I want to browse the menu URL. ex: https://ferohmd.github.io/MS1-Project/menu.html
+  - As a user I want to browse the menu URL. ex: https://ferohmd.github.io/MS1-Project/menu.html
    - Testing: By following the URL above directly or if on the home page, by clicking the menu page it will take you to the menu. By clicking on the 'Click here for more' on discover our menu, it will take you to the main menu at the bottom of the page. 
 
   - As a user I want to navigate to different pages by clicking the navigation links provided in the header.
@@ -80,12 +80,12 @@ Testing completed following the acceptance criteria on all devices and browsers 
      Click on the Booking link to take you to the Booking page
      Click the Contact link to take you to the contact page at the bottom of the page, the footer.By clicking the contact link, and then being taken to the footer of the page with the contact details, and on clicking the email address, the user's email bar will open up where you can send a direct email to the restaurant and by clicking on the phone number, it will take you to the phone page to call on the web browsers.
 
-  - As an user I want to click on social media links and it should open in a new tab.
+  - As a user I want to click on social media links and it should open in a new tab.
      - Testing: By scrolling down to the footer or clicking the Contact link at the top right corner of the page, you can access the various social media links which will open in a new tab.
 
 
 ### Booking Page
-  - As an user I want to visit the booking page. ex: https://ferohmd.github.io/MS1-Project/booking.html
+  - As a user I want to visit the booking page. ex: https://ferohmd.github.io/MS1-Project/booking.html
    - Testing: By either following the URL above to go directly to the booking page or by clicking on the Booking tab on the top right corner of the page to take you there, from either the home page, about or menu page from the top right corner on the header. 
 
   - As a user I want to navigate to different pages by clicking the navigation links provided in the header.
@@ -108,14 +108,14 @@ Testing completed following the acceptance criteria on all devices and browsers 
   - As a user I want to able to book a table using the online form by entering the name, email, phone, number of people dining in and a message.
    - Testing: by filling out the form it will take me back to the booking form. 
 
-  - As an user I want to click on social media links and it should open in a new tab.
+  - As a user I want to click on social media links and it should open in a new tab.
      - Testing: By scrolling down to the footer or clicking the Contact link at the top right corner of the page, you can access the various social media links which will open in a new tab. 
 
 ## Mobile testing reports
 I have tested following acceptance criteria for mobile device. Tested on Apple Iphone 12, X, 7 and above, Also tested on Android phone.
 
 ### Home Page
-  - As an user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/index.html
+  - As a user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/index.html
     - Testing: I browsed the URL above to access the home page of the restaurant. When I browse the url, it will take the user to the Home Page.
 
   - As a user I want to see hamburger menu in the header with restaurant logo, name of the restaurant as a content and footer with contact and opening hours information with social media icons and copyright information.
@@ -168,13 +168,13 @@ I have tested following acceptance criteria for mobile device. Tested on Apple I
     - Testing: By clicking on the media Icons, user is taken to the designated site.
 
 ### Menu Page
-  - As an user I want to browse the menu page with a root URL. ex: https://ferohmd.github.io/MS1-Project/menu.html
+  - As a user I want to browse the menu page with a root URL. ex: https://ferohmd.github.io/MS1-Project/menu.html
    - Testing:  - Testing: I browsed the URL above to access the home page of the restaurant. When I browse the url, it will take the user to the Home Page.
 
   - As a user I want to see hamburger menu in the header with restaurant logo, name of the restaurant as a content and footer with contact and opening hours information with social media icons and copyright information.
    - Testing: By clicking on the hamburger menu the user can be taken to the different pages on the mobile device.
 
-  - As an user, I want to access the navigation menu by clicking the hamburger icon 
+  - As a user, I want to access the navigation menu by clicking the hamburger icon 
    - Testing: By clicking on the hamburger icon on the top right of the screenm, user will be taken to the menu-navigation.html page.
 
   - As a user I want to navigate to different pages by clicking the navigation links provided in the menu-navigation.html page.
@@ -195,13 +195,13 @@ I have tested following acceptance criteria for mobile device. Tested on Apple I
     - Testing: By clicking on the media Icons, user is taken to the designated site.
 
 ### Booking Page
-  - As an user I want to browse the booking page with a root URL. ex: https://ferohmd.github.io/MS1-Project/booking.html
+  - As a user I want to browse the booking page with a root URL. ex: https://ferohmd.github.io/MS1-Project/booking.html
    - Testing:  - Testing: I browsed the URL above to access the home page of the restaurant. When I browse the url, it will take the user to the Home Page.
 
   - As a user I want to see hamburger menu in the header with restaurant logo, name of the restaurant as a content and footer with contact and opening hours information with social media icons and copyright information.
    - Testing: By clicking on the hamburger menu the user can be taken to the different pages on the mobile device.
 
-  - As an user, I want to access the navigation menu by clicking the hamburger icon 
+  - As a user, I want to access the navigation menu by clicking the hamburger icon 
    - Testing: By clicking on the hamburger icon on the top right of the screenm, user will be taken to the booking-navigation.html page.
 
   - As a user I want to navigate to different pages by clicking the navigation links provided in the booking-navigation.html page.
@@ -231,5 +231,5 @@ I have tested following acceptance criteria for mobile device. Tested on Apple I
     - Testing: By clicking on the media Icons, user is taken to the designated site.
 
 
-## Tablet testin report
+## Tablet testing report
 The acceptance criteria has been followed for testing on tablet. Tested on Apple IOS Ipad and Ipad Pro. Both worked well, the same as on desktop at the top. 
