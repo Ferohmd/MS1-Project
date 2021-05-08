@@ -51,7 +51,6 @@ Design and coded by Fero Hamed
 Please Refer to for [License](LICENSE) 
 
 ## Live Demo
-
 To see the live demo, please [click here](https://ferohmd.github.io/MS1-Project/).
 
 ### Quick Live Preview Desktop
@@ -280,7 +279,7 @@ My website was tested using Lighthouse in the Google Development Tools. Consider
 
 ## Deployment
 The project has been deployed on Github Pages by using the following techniques:
-- Log in to Github and find the repository one wishes to deploy.
+- Log in to Github and find the [repository](https://github.com/Ferohmd/MS1-Project) you wish to deploy.
 - Once on the reposity page, click on the settings icon.
 - Scroll down the setting pages until you reach the section called "GitHub Pages".
 - Once on the Github Pages, click on the "Source" subheading click the dropdown labelled "None", select main and click save.
@@ -288,7 +287,7 @@ The project has been deployed on Github Pages by using the following techniques:
 - Once it is refreshed, you will see a green tick that the page is published to Github Pages. ( Your site is published at https://ferohmd.github.io/MS1-Project/)
 
 ## Creating a local clone of the repository
-- Log in on GitHub and find the repository you wish to make a copy off.
+- Log in to Github and find the [repository](https://github.com/Ferohmd/MS1-Project) you wish to make a copy off.
 - Click on the dropdown labelled ''Code'' in the green button and copy the link,
 - Once that the URL is copied, open Git Bash.
 - Bring changes to the location of where you want the cloned directory to be made.
