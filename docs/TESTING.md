@@ -34,7 +34,7 @@ Testing completed following the acceptance criteria on all devices and browsers 
       Click the logo on the home page to stay on the home page. 
       Click the Menu Link to land on the Menu Page.
       Click the Booking link to land on the Booking Page.
-      Click the Contact link to take you to the contact page at the bottom of the page, the footer.By clicking the contact link, and then being taken to the footer of the page with the contact details, and on clicking the email address, the userss email bar will open up where you can send a direct email to the restaurant and by clicking on the phone number, it will take you to the phone page to call on the web browsers.
+      Click the Contact link to take you to the contact page at the bottom of the page, the footer.By clicking the contact link, and then being taken to the footer of the page with the contact details, and on clicking the email address, the user's email bar will open up where you can send a direct email to the restaurant and by clicking on the phone number, it will take you to the phone page to call on the web browsers.
 
   - As a user I want to click on social media links and it should open in a new tab.
     - Testing: By clicking on the social media links I am directed to the individual sites on a new web page.
@@ -56,10 +56,10 @@ Testing completed following the acceptance criteria on all devices and browsers 
      Click on the About link to remain on the About page
      Click on the Menu link to take you to the Menu page
      Click on the Booking link to take you to the Booking page
-     Click on the Contact link to direct you to the bottom of the page, on the footer with all the contact information
+     Click the Contact link to take you to the contact page at the bottom of the page, the footer.By clicking the contact link, and then being taken to the footer of the page with the contact details, and on clicking the email address, the user's email bar will open up where you can send a direct email to the restaurant and by clicking on the phone number, it will take you to the phone page to call on the web browsers.
 
   - As an user I want to click on social media links and it should open in a new tab.
-     - Testing: By scrolling down to the footer or clicking the Contact link at the top right corner of the page, you can access the various social media links which will open in a new tab. 
+     - Testing: By scrolling down to the footer or clicking the Contact link at the top right corner of the page, you can access the various social media links which will open in a new tab.
 
 
 ### Menu Page
@@ -78,10 +78,11 @@ Testing completed following the acceptance criteria on all devices and browsers 
      Click on the About link to take you to the About page
      Click on the Menu page to remain on the Menu page
      Click on the Booking link to take you to the Booking page
-     Click on the Contact link to direct you to the bottom of the page, on the footer with all the contact information
+     Click the Contact link to take you to the contact page at the bottom of the page, the footer.By clicking the contact link, and then being taken to the footer of the page with the contact details, and on clicking the email address, the user's email bar will open up where you can send a direct email to the restaurant and by clicking on the phone number, it will take you to the phone page to call on the web browsers.
 
   - As an user I want to click on social media links and it should open in a new tab.
-     - Testing: By scrolling down to the footer or clicking the Contact link at the top right corner of the page, you can access the various social media links which will open in a new tab. 
+     - Testing: By scrolling down to the footer or clicking the Contact link at the top right corner of the page, you can access the various social media links which will open in a new tab.
+
 
 ### Booking Page
   - As an user I want to visit the booking page. ex: https://ferohmd.github.io/MS1-Project/booking.html
@@ -99,69 +100,136 @@ Testing completed following the acceptance criteria on all devices and browsers 
      Click on the About link to take you to the About page
      Click on the Menu page to take you to the Menu page
      Click on the Booking link to stay on the Booking page
-     Click on the Contact link to direct you to the bottom of the page, on the footer with all the contact information
+     Click the Contact link to take you to the contact page at the bottom of the page, the footer.By clicking the contact link, and then being taken to the footer of the page with the contact details, and on clicking the email address, the user's email bar will open up where you can send a direct email to the restaurant and by clicking on the phone number, it will take you to the phone page to call on the web browsers.
+
   - As a user, I want to see the restaurant pinned in the google map.
    - Testing: By clicking on the map you can zoom in and zoom out with the plus and minus button or your mouse on the exact location of the restaurant.
 
   - As a user I want to able to book a table using the online form by entering the name, email, phone, number of people dining in and a message.
-  
-  - As a user I want to click on social media links and it should open in a new tab.
+   - Testing: by filling out the form it will take me back to the booking form. 
+
+  - As an user I want to click on social media links and it should open in a new tab.
+     - Testing: By scrolling down to the footer or clicking the Contact link at the top right corner of the page, you can access the various social media links which will open in a new tab. 
 
 ## Mobile testing reports
-I have tested following acceptance criteria for mobile
+I have tested following acceptance criteria for mobile device. Tested on Apple Iphone 12, X, 7 and above, Also tested on Android phone.
 
 ### Home Page
-  - As a user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/index.html
-  - As a user I want to see hamburger menu in the header with restaurant logo, name of the restaurant as a content and footer with contact and opening hours information with social medial icons and copyright information.
-  - As a user, I want to access the mavigation menu by clicking the hamburger icon (which take user to /navigation.html page)
+  - As an user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/index.html
+    - Testing: I browsed the URL above to access the home page of the restaurant. When I browse the url, it will take the user to the Home Page.
+
+  - As a user I want to see hamburger menu in the header with restaurant logo, name of the restaurant as a content and footer with contact and opening hours information with social media icons and copyright information.
+   - Testing: By clicking on the hamburger menu the user can be taken to the different pages on the mobile device.
+
+  - As a user, I want to access the navigation menu by clicking the hamburger icon 
+    - Testing: By clicking on the hamburger icon on the top right of the screenm, user will be taken to the /navigation.html page)
+
   - As a user I want to navigate to different pages by clicking the navigation links provided in the /navigation.html page.
-    - On clicking logo, I want to stay in the home page
-    - On clicking Home link, I want to stay in the home page
-    - On clicking Menu link, I want to land on menu page
-    - On clicking Booking link, I want to land on booking page
-    - On clicking Contact link, I want to scroll down to footer of the same page which shows contact information
+    - By clicking the logo, I want to stay on the home page
+    - By clicking the Home link, I want to stay in the home page
+    - By clicking the Menu link, I want to land on menu page
+    - By clicking the Booking link, I want to land on booking page
+    - By clicking the Contact link, I want to scroll down to the footer of the same page which shows contact information
+     - Testing: By clicking on the logo, user will remain on the home page
+    By clicking on the Home link, user is taken to the home page
+    By clicking on the Menu link, user is taken to the menu page
+    By clicking on the Booking link, user is taken to the booking page
+    By clicking on the contact link, user is taken to the contact information section. By clicking the contact link, and then being taken to the footer of the page with the contact details, and on clicking the email address, the user's email apps on the phone will open up where you can send a direct email to the restaurant and by clicking on the phone number, it will take you to the phone page to call.
+
   - As a user I want to click on social media links and it should open in a new tab.
+    - Testing: By clicking on the media Icons, user is taken to the designated site.
 
 
 ### About Page
   - As a user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/about.html
-  - As a user I want to see hamburger menu in the header with restaurant logo,, about content and footer with contact and opening hours information with social medial icons and copyright information.
-  - As a user, I want to access the mavigation menu by clicking the hamburger icon (which take user to /about-navigation.html page)
-  - As a user I want to navigate to different pages by clicking the navigation links provided in the about/navigation.html page.
-    - On clicking logo, I want to land on home page
-    - On clicking Home link, I want to land on home page
-    - On clicking About link, I want to stay in the about page
-    - On clicking Menu link, I want to land on menu page
-    - On clicking Booking link, I want to land on booking page
-    - On clicking Contact link, I want to scroll down to footer of the same page which shows contact information
-  - As a user I want to click on social media links and it should open in a new tab.
+   - Testing: I browsed the URL above to access the home page of the restaurant. When I browse the url, it will take the user to the Home Page.
 
+   - As a user I want to see hamburger menu in the header with restaurant logo, name of the restaurant as a content and footer with contact and opening hours information with social media icons and copyright information.
+   - Testing: By clicking on the hamburger menu the user can be taken to the different pages on the mobile device.
+
+  - As a user, I want to access the navigation menu by clicking the hamburger icon 
+    - Testing: By clicking on the hamburger icon on the top right of the screenm, user will be taken to the /about-navigation.html page).
+
+  - As a user I want to navigate to different pages by clicking the navigation links provided in the /about-navigation.html page.
+    - By clicking the logo, I want to stay on the home page
+    - By clicking the Home link, I want to be taken to the home page
+    - By clicking the About link, I want to remain on the about page
+    - By clicking the Menu link, I want to land on menu page
+    - By clicking the Booking link, I want to land on booking page
+    - By clicking the Contact link, I want to scroll down to footer of the same page which shows contact information
+     - Testing: By clicking on the logo, user will be taken to the home page
+    By clicking on the Home link, user is taken to the home page
+    By clicking on the about link, user stays on the about page
+    By clicking on the Menu link, user is taken to the menu page
+    By clicking on the Booking link, user is taken to the booking page
+    By clicking on the contact link, user is taken to the contact information section. By clicking the contact link, and then being taken to the footer of the page with the contact details, and on clicking the email address, the user's email apps on the phone will open up where you can send a direct email to the restaurant and by clicking on the phone number, it will take you to the phone page to call.
+
+  - As a user I want to click on social media links and it should open in a new tab.
+    - Testing: By clicking on the media Icons, user is taken to the designated site.
 
 ### Menu Page
-  - As a user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/menu.html
-  - As a user I want to see hamburger menu in the header with restaurant logo,, menu content and footer with contact and opening hours information with social medial icons and copyright information.
-  - As a user, I want to access the mavigation menu by clicking the hamburger icon (which take user to menu-navigation.html page)
+  - As an user I want to browse the menu page with a root URL. ex: https://ferohmd.github.io/MS1-Project/menu.html
+   - Testing:  - Testing: I browsed the URL above to access the home page of the restaurant. When I browse the url, it will take the user to the Home Page.
+
+  - As a user I want to see hamburger menu in the header with restaurant logo, name of the restaurant as a content and footer with contact and opening hours information with social media icons and copyright information.
+   - Testing: By clicking on the hamburger menu the user can be taken to the different pages on the mobile device.
+
+  - As an user, I want to access the navigation menu by clicking the hamburger icon 
+   - Testing: By clicking on the hamburger icon on the top right of the screenm, user will be taken to the menu-navigation.html page.
+
   - As a user I want to navigate to different pages by clicking the navigation links provided in the menu-navigation.html page.
-    - On clicking logo, I want to land on home page
-    - On clicking Home link, I want to land on home page
-    - On clicking About link, I want to land on about page
-    - On clicking Menu link, I want to stay in the menu page
-    - On clicking Booking link, I want to land on booking page
-    - On clicking Contact link, I want to scroll down to footer of the same page which shows contact information
+    - By clicking the logo, I want to be taken to the home page
+    - By clicking the Home link, I want to be taken to the home page
+    - By clicking the About link, I want to land on the about page
+    - By clicking the Menu link, I want to remain on the menu page
+    - By clicking the Booking link, I want to land on the booking page
+    - By clicking the Contact link, I want to scroll down to footer of the same page which shows contact information
+     - Testing: By clicking on the logo, user will be taken to the home page
+    By clicking on the Home link, user is taken to the home page
+    By clicking on the about link, user is taken to the about page
+    By clicking on the Menu link, user remains on the menu page
+    By clicking on the Booking link, user is taken to the booking page
+    By clicking on the contact link, user is taken to the contact information section. By clicking the contact link, and then being taken to the footer of the page with the contact details, and on clicking the email address, the user's email apps on the phone will open up where you can send a direct email to the restaurant and by clicking on the phone number, it will take you to the phone page to call.
+
   - As a user I want to click on social media links and it should open in a new tab.
+    - Testing: By clicking on the media Icons, user is taken to the designated site.
 
 ### Booking Page
-  - As a user I want to browse the home page with a root URL. ex: https://ferohmd.github.io/MS1-Project/booking.html
-  - As a user I want to see hamburger menu in the header with restaurant logo,, booking content and footer with contact and opening hours information with social medial icons and copyright information.
-  - As a user, I want to access the mavigation menu by clicking the hamburger icon (which take user to booking-navigation.html page)
-  - As a user I want to navigate to different pages by clicking the navigation links provided in the booking-navigation.html page.
-    - On clicking logo, I want to land on home page
-    - On clicking Home link, I want to land on home page
-    - On clicking About link, I want to land on about page
-    - On clicking Menu link, I want to land on menu page
-    - On clicking Booking link, I want to stay in the booking page
-    - On clicking Contact link, I want to scroll down to footer of the same page which shows contact information
-  - As a user, I want to see the restaurant pinned in the google map.
-  - As a user I want to able to book a table using the online form by entering the name, email, phone, number of people dining in and a message.
-  - As a user I want to click on social media links and it should open in a new tab.
+  - As an user I want to browse the booking page with a root URL. ex: https://ferohmd.github.io/MS1-Project/booking.html
+   - Testing:  - Testing: I browsed the URL above to access the home page of the restaurant. When I browse the url, it will take the user to the Home Page.
 
+  - As a user I want to see hamburger menu in the header with restaurant logo, name of the restaurant as a content and footer with contact and opening hours information with social media icons and copyright information.
+   - Testing: By clicking on the hamburger menu the user can be taken to the different pages on the mobile device.
+
+  - As an user, I want to access the navigation menu by clicking the hamburger icon 
+   - Testing: By clicking on the hamburger icon on the top right of the screenm, user will be taken to the booking-navigation.html page.
+
+  - As a user I want to navigate to different pages by clicking the navigation links provided in the booking-navigation.html page.
+    - By clicking the logo, I want to be taken to the home page
+    - By clicking the Home link, I want to be taken to the home page
+    - By clicking the About link, I want to land on the about page
+    - By clicking the Menu link, I want to go to the menu page
+    - By clicking the Booking link, I want to stay on the booking page
+    - By clicking the Contact link, I want to be taken down to the footer of the page which shows contact information
+     - Testing: By clicking on the logo, user will be taken to the home page
+    By clicking on the Home link, user is taken to the home page
+    By clicking on the about link, user is taken to the about page
+    By clicking on the Menu link, user is taken to the menu page
+    By clicking on the Booking link, user is remains on the booking page
+    By clicking on the contact link, user is taken to the contact information section. By clicking the contact link, and then being taken to the footer of the page with the contact details, and on clicking the email address, the user's email apps on the phone will open up where you can send a direct email to the restaurant and by clicking on the phone number, it will take you to the phone page to call.
+
+  - As a user I want to click on social media links and it should open in a new tab.
+    - Testing: By clicking on the media Icons, user is taken to the designated site.
+
+  - As a user, I want to see the restaurant pinned on google map.
+    - Testing: By clickin on the map, it will allow user to zoom in and out of the screen or by clicking on the map it will take user to google maps for direction.
+
+  - As a user I want to able to book a table using the online form by entering the name, email, phone, number of people dining in and a message.
+    - Testing: By filling out the form the user is taken back to the booking page. 
+
+  - As a user I want to click on social media links and it should open in a new tab.
+    - Testing: By clicking on the media Icons, user is taken to the designated site.
+
+
+## Tablet testin report
+The acceptance criteria has been followed for testing on tablet. Tested on Apple IOS Ipad and Ipad Pro. Both worked well, the same as on desktop at the top. 
