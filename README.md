@@ -111,6 +111,8 @@ I have followed the software developement life cycle.
   - Mobile page layout
   ![Wireframe](./docs/wireframes/mobile-page-layout.png "Mobile")
 
+Below you can find the initial drafts of the wireframes I created for the pages, illustrating how I would want the page to be structured. 
+
 ## Implementation
   - Responsive design of a restaurant website
   - Static website implemented using HTML and CSS. 
@@ -121,7 +123,6 @@ I have followed the software developement life cycle.
   - CSS global variables are used (variables.css) for theming
   - Static files are located in assets folder
   - Google map integrated using Google Map Generator [https://google-map-generator.com/]
-
 
 ### Project structure
 ```
