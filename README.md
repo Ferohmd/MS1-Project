@@ -280,19 +280,19 @@ My website was tested using Lighthouse in the Google Development Tools. Consider
 
 ## Deployment
 The project has been deployed on Github Pages by using the following techniques:
-1: Log in to Github and find the repository one wishes to deploy.
-2: Once on the reposity page, click on the settings icon.
-3: Scroll down the setting pages until you reach the section called "GitHub Pages".
-4: Once on the Github Pages, click on the "Source" subheading click the dropdown labelled "None", select main and click save.
-5: The page will then automatically refresh
-6: Once it is refreshed, you will see a green tick that the page is published to Github Pages. ( Your site is published at https://ferohmd.github.io/MS1-Project/)
+- Log in to Github and find the repository one wishes to deploy.
+- Once on the reposity page, click on the settings icon.
+- Scroll down the setting pages until you reach the section called "GitHub Pages".
+- Once on the Github Pages, click on the "Source" subheading click the dropdown labelled "None", select main and click save.
+- The page will then automatically refresh
+- Once it is refreshed, you will see a green tick that the page is published to Github Pages. ( Your site is published at https://ferohmd.github.io/MS1-Project/)
 
 ## Creating a local clone of the repository
-1: Log in on GitHub and find the repository you wish to make a copy off.
-2: Click on the dropdown labelled ''Code'' in the green button and copy the link,
-3: Once that the URL is copied, open Git Bash.
-4: Bring changes to the location of where you want the cloned directory to be made.
-5: Type in 'Gitclone' and paste the above URL copied. 
+- Log in on GitHub and find the repository you wish to make a copy off.
+- Click on the dropdown labelled ''Code'' in the green button and copy the link,
+- Once that the URL is copied, open Git Bash.
+- Bring changes to the location of where you want the cloned directory to be made.
+- Type in 'Gitclone' and paste the above URL copied. 
 
 ## References
   - Google Map Generator: [https://google-map-generator.com/](https://google-map-generator.com/)
