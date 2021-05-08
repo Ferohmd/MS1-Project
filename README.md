@@ -94,6 +94,17 @@ I have followed the software developement life cycle.
   - Need a navigation to different page
 
 ## Design
+
+### Colour scheme: 
+- The main colour of the page is black with the title colour in Green and black as the two colours as it matches the rest of the website. Throughout the website the navbar and contact details are all in white colour, as its simple. 
+- I want the website to look as minimal, simple, easy to navigate with a sleek style. 
+
+### Typography
+- The text is consistent across all pages.
+
+### Images:
+- The images used are of high quality that even when scale according to different device sizes the quality does not reduce. 
+
   - Common page layout for desktop and tablet
   ![Wireframe](./docs/wireframes/desktop-tablet-layout.png "Desktop-tablet")
   
@@ -237,7 +248,6 @@ I have followed the software developement life cycle.
   - [Booking page](./booking.html)
     - [Mobile only Navigation (Booking active)](./booking-navigation.html)  
 
-
 ## Testing
 Testing report found in [TESTING.md](./docs/TESTING.md)
 
@@ -258,7 +268,7 @@ Testing report found in [TESTING.md](./docs/TESTING.md)
   Fix: I noticed with the about.html or menu.html it would work on the local desktop but not on the github server so what I did was to go back on to the navbar and added the name of the project: ms1-project to route it correctly on to the pages on the github server.
 
   ### Known Bugs
- - When using an Ipad, on the about, it looks like it has not been scaled properly. As I had issues using Bootstrap for scaling, I focussed on the sizing of the website so it comes out neatly on all devices. It looks fine on all devices except the about page on an Ipad. Looks like the image is overlaying the text. 
+ - When using an Ipad, on the about, it looks like it has not been scaled properly. As I had issues using Bootstrap for scaling, I focussed on  just using plain css and media query for scaling purposes. Although the sizing of the website  comes out neatly on all devices. It looks fine on all devices except the about page on an Ipad. Looks like the image is overlaying the text. 
 
 ## Lighthouse Reports
 My website was tested using Lighthouse in the Google Development Tools. Considering that this was my first website design, I am quite content with the outcome, as I went for a simple but sleek look which I did attain. I am pretty content with the performance of the website, though per haps reducing the image size on the home page may helped with the performance score of 88%. 
@@ -267,9 +277,37 @@ My website was tested using Lighthouse in the Google Development Tools. Consider
 [Menu page](./docs/light-house-reports/menu.pdf)
 [about Page](./docs/light-house-reports/about.pdf)
 
-## References
-  - Google Map Generator : [https://google-map-generator.com/](https://google-map-generator.com/)
-  - Name that color : [https://chir.ag/projects/name-that-color/](https://chir.ag/projects/name-that-color/#6195ED)
-  - Google Images : [https://www.google.com/](https://www.google.com/)
-  - Images : [https://www.pexels.com](https://www.pexels.com)
+## Deployment
+The project has been deployed on Github Pages by using the following techniques:
+1: Log in to Github and find the repository one wishes to deploy.
+2: Once on the reposity page, click on the settings icon.
+3: Scroll down the setting pages until you reach the section called "GitHub Pages".
+4: Once on the Github Pages, click on the "Source" subheading click the dropdown labelled "None", select main and click save.
+5: The page will then automatically refresh
+6: Once it is refreshed, you will see a green tick that the page is published to Github Pages. ( Your site is published at https://ferohmd.github.io/MS1-Project/)
 
+## Creating a local clone of the repository
+1: Log in on GitHub and find the repository you wish to make a copy off.
+2: Click on the dropdown labelled ''Code'' in the green button and copy the link,
+3: Once that the URL is copied, open Git Bash.
+4: Bring changes to the location of where you want the cloned directory to be made.
+5: Type in 'Gitclone' and paste the above URL copied. 
+
+## References
+  - Google Map Generator: [https://google-map-generator.com/](https://google-map-generator.com/)
+
+  - Name that color: [https://chir.ag/projects/name-that-color/](https://chir.ag/projects/name-that-color/#6195ED)
+
+  - Google Images: [https://www.google.com/](https://www.google.com/)
+
+  - Images: [https://www.pexels.com](https://www.pexels.com)
+
+  - Media Query: [https://www.w3schools.com/css/css_rwd_mediaqueries.asp] (https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
+  - W3School: [https://www.w3schools.com/] (https://www.w3schools.com/)
+  Provided me with 'how it works' sections in developing my website
+
+## Acknowledgements
+- I would like to thank my mentor, Gerard McBride for the help and support.
+- Code Institute for teaching the relevant skills and ability to create the website.
+- Code Institute Tutors for all the support. 
